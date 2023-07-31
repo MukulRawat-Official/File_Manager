@@ -1263,6 +1263,7 @@ namespace DiskManager
             if (ResultTextBlock != null)
             {
                 MAIN_AREA.Children.RemoveAt(MAIN_AREA.Children.Count - 1);
+                if(MAIN_AREA != null)
                 MAIN_AREA.Children.RemoveAt(MAIN_AREA.Children.Count - 1);
                 ResultTextBlock.Text = null;
             }

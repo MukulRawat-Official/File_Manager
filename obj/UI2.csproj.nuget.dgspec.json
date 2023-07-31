@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Hackthons\\UI2\\UI2.csproj": {}
+    "C:\\Hackthons\\UI3\\UI2.csproj": {}
   },
   "projects": {
-    "C:\\Hackthons\\UI2\\UI2.csproj": {
+    "C:\\Hackthons\\UI3\\UI2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hackthons\\UI2\\UI2.csproj",
+        "projectUniqueName": "C:\\Hackthons\\UI3\\UI2.csproj",
         "projectName": "UI2",
-        "projectPath": "C:\\Hackthons\\UI2\\UI2.csproj",
+        "projectPath": "C:\\Hackthons\\UI3\\UI2.csproj",
         "packagesPath": "C:\\Users\\rawat\\.nuget\\packages\\",
-        "outputPath": "C:\\Hackthons\\UI2\\obj\\",
+        "outputPath": "C:\\Hackthons\\UI3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rawat\\AppData\\Roaming\\NuGet\\NuGet.Config",
