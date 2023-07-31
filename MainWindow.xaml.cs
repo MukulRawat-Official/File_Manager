@@ -710,6 +710,7 @@ namespace DiskManager
         private void SearchButton_Click2(object sender, RoutedEventArgs e)
         {
             displayFiles.ItemsSource = null;
+            foundFiles.Clear();
             string selectedFileType = duplicateFileTypeComboBox.SelectedItem as string;
 
             var folderBrowserDialog = new System.Windows.Forms.FolderBrowserDialog();
