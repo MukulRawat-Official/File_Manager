@@ -1,8 +1,7 @@
 ## Project Demonstration Video
 
-<!-- Check out the project demonstration video by clicking [here](docs/Demo_Video/page.html).  -->
+Check out the project demonstration video by clicking [here](https://mukulrawat-official.github.io/File_Manager/).
      
-# Running Visual Studio Files in Windows.xaml and Window.xaml.cs
 
 This repository contains files created in Visual Studio that can be run in a Windows Presentation Foundation (WPF) application using the `Windows.xaml` and `Window.xaml.cs` files. Below are the instructions to set up and run the application.
 
