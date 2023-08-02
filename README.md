@@ -1,6 +1,9 @@
 ## Project Demonstration Video
 
-Check out the project demonstration video by clicking [here](Demo-Video\Video Demo - Github.mp4). 
+<video width="640" height="360" controls>
+  <source src="videos/your_video.mp4" type="Demo-Video\Video Demo - Github.mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 # Running Visual Studio Files in Windows.xaml and Window.xaml.cs
