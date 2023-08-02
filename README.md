@@ -1,6 +1,6 @@
 ## Project Demonstration Video
 
-Check out the project demonstration video by clicking [here](Demo_Video/Demo_Github.mp4). 
+Check out the project demonstration video by clicking [here](Demo_Video/page.html). 
 
 # Running Visual Studio Files in Windows.xaml and Window.xaml.cs
 
